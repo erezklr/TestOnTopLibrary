@@ -1,6 +1,6 @@
 # Calculations.calc import sum
 
-from Calculations.calc import *
+from calculator.calc import *
 
 print(sum(1,2))
 print(sub(100,2))
